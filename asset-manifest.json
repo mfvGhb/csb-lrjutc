@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mfvgml.github.io/csb-lrjutc/static/css/main.0f3b378d.chunk.css",
+    "main.js": "https://mfvgml.github.io/csb-lrjutc/static/js/main.8bcef0fd.chunk.js",
+    "main.js.map": "https://mfvgml.github.io/csb-lrjutc/static/js/main.8bcef0fd.chunk.js.map",
+    "runtime-main.js": "https://mfvgml.github.io/csb-lrjutc/static/js/runtime-main.c1379bb7.js",
+    "runtime-main.js.map": "https://mfvgml.github.io/csb-lrjutc/static/js/runtime-main.c1379bb7.js.map",
+    "static/js/2.85e2f89c.chunk.js": "https://mfvgml.github.io/csb-lrjutc/static/js/2.85e2f89c.chunk.js",
+    "static/js/2.85e2f89c.chunk.js.map": "https://mfvgml.github.io/csb-lrjutc/static/js/2.85e2f89c.chunk.js.map",
+    "index.html": "https://mfvgml.github.io/csb-lrjutc/index.html",
+    "static/css/main.0f3b378d.chunk.css.map": "https://mfvgml.github.io/csb-lrjutc/static/css/main.0f3b378d.chunk.css.map",
+    "static/js/2.85e2f89c.chunk.js.LICENSE.txt": "https://mfvgml.github.io/csb-lrjutc/static/js/2.85e2f89c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1379bb7.js",
+    "static/js/2.85e2f89c.chunk.js",
+    "static/css/main.0f3b378d.chunk.css",
+    "static/js/main.8bcef0fd.chunk.js"
+  ]
+}
